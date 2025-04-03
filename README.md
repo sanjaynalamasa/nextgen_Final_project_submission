@@ -2,7 +2,7 @@
 
 A modern, responsive online auction platform built with React, TypeScript, and Tailwind CSS.
 
-## Features
+## Features.
 
 - 🔐 User Authentication
   - Sign In
